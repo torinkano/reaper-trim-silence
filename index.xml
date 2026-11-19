@@ -15,7 +15,7 @@
 - head/tail boundary navigation with centered arrange view
 - skips unsupported items and protects crossfades/overlaps
 - single undo block; batch-friendly]]></changelog>
-        <source main="main">https://github.com/torinkano/reaper-trim-silence/raw/v1.0.0/TrimLeadingTrailingSilence.lua</source>
+        <source main="main">https://github.com/torinkano/reaper-trim-silence/raw/00f851baea6873e5415bd97f548ec9f46ed297fd/TrimLeadingTrailingSilence.lua</source>
       </version>
     </reapack>
   </category>
