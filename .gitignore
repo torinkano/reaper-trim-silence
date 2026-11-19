@@ -1,0 +1,12 @@
+# Test artifacts (generated locally)
+tests/reaper/.generated/
+tests/reaper/test-media/
+tests/reaper/*-report.txt
+_scratch/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
