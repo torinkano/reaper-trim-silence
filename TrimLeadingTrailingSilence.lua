@@ -1,3 +1,9 @@
+-- @description Trim leading and trailing silence (voice-safe)
+-- @author Jzpi
+-- @version 1.0.0
+-- @changelog Initial ReaPack release: source-level leading/trailing trim, short fade reset, live preview, fade-only fast path, boundary navigation, center view.
+-- @link https://github.com/Jzpi/reaper-trim-silence
+
 --[[
  * ReaScript Name: Trim leading and trailing silence (voice-safe)
  * Inspired by: X-Raym - "Trim selected items at first and last transient"

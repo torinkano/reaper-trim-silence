@@ -26,6 +26,24 @@
 
 ## 安装
 
+### 通过 ReaPack（推荐）
+
+在 REAPER 中：
+
+```text
+Extensions → ReaPack → Import repositories...
+```
+
+粘贴仓库地址：
+
+```text
+https://github.com/Jzpi/reaper-trim-silence/raw/main/index.xml
+```
+
+然后打开 `Browse packages`，找到 `Trim Leading/Trailing Silence (voice-safe)` 安装；以后用 `Synchronize packages` 更新。
+
+### 手动安装
+
 把 `TrimLeadingTrailingSilence.lua` 放到 REAPER 资源目录下的 `Scripts/` 中，例如：
 
 ```text
