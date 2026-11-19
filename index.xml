@@ -3,7 +3,7 @@
   <category name="Items">
     <reapack name="TrimLeadingTrailingSilence.lua" type="script" desc="Trim leading and trailing silence (voice-safe)">
       <metadata>
-        <link rel="website">https://github.com/Jzpi/reaper-trim-silence</link>
+        <link rel="website">https://github.com/torinkano/reaper-trim-silence</link>
       </metadata>
       <version name="1.0.0" author="Jzpi" time="2026-11-19T02:57:49Z">
         <changelog><![CDATA[Initial release:
@@ -15,8 +15,9 @@
 - head/tail boundary navigation with centered arrange view
 - skips unsupported items and protects crossfades/overlaps
 - single undo block; batch-friendly]]></changelog>
-        <source main="main">https://github.com/Jzpi/reaper-trim-silence/raw/v1.0.0/TrimLeadingTrailingSilence.lua</source>
+        <source main="main">https://github.com/torinkano/reaper-trim-silence/raw/v1.0.0/TrimLeadingTrailingSilence.lua</source>
       </version>
     </reapack>
   </category>
 </index>
+

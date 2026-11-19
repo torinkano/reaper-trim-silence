@@ -37,7 +37,7 @@ Extensions → ReaPack → Import repositories...
 粘贴仓库地址：
 
 ```text
-https://github.com/Jzpi/reaper-trim-silence/raw/main/index.xml
+https://github.com/torinkano/reaper-trim-silence/raw/main/index.xml
 ```
 
 然后打开 `Browse packages`，找到 `Trim Leading/Trailing Silence (voice-safe)` 安装；以后用 `Synchronize packages` 更新。
@@ -205,3 +205,4 @@ python tests/reaper/make_test_media.py
 
 - 本脚本受 X-Raym 的 “Trim selected items at first and last transient” 启发，原脚本为 GPL v3。
 - 本实现同样以 **GPL v3** 发布，见 [LICENSE](LICENSE)。
+
