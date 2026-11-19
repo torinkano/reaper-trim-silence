@@ -182,6 +182,7 @@ python tests/reaper/make_test_media.py
 .
 ├─ TrimLeadingTrailingSilence.lua   # 最终脚本
 ├─ README.md
+├─ index.xml                        # ReaPack repository index
 ├─ LICENSE                          # GPL v3
 ├─ docs/
 │  └─ TESTING.md

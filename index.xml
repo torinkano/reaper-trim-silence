@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Jzpi ReaScripts">
+  <category name="Items">
+    <reapack name="TrimLeadingTrailingSilence.lua" type="script" desc="Trim leading and trailing silence (voice-safe)">
+      <metadata>
+        <link rel="website">https://github.com/Jzpi/reaper-trim-silence</link>
+      </metadata>
+      <version name="1.0.0" author="Jzpi" time="2026-11-19T02:57:49Z">
+        <changelog><![CDATA[Initial release:
+- source-level leading/trailing silence detection via take AudioAccessor
+- preserves internal pauses, breaths, weak tails and timeline positions
+- resets fades only on trimmed edges (2 ms / 5 ms by default)
+- optional preserve-existing-fades policy
+- ReaImGui live preview, right-click exact input, Run/Cancel
+- head/tail boundary navigation with centered arrange view
+- skips unsupported items and protects crossfades/overlaps
+- single undo block; batch-friendly]]></changelog>
+        <source main="main">https://github.com/Jzpi/reaper-trim-silence/raw/v1.0.0/TrimLeadingTrailingSilence.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
